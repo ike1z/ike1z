@@ -1,7 +1,8 @@
-## Hi 👋, I'm Kazuki Ikeda
-### A passionate frontend developer from Japan
+## Hi, I'm Kazuki Ikeda 👋
+### A passionate frontend developer from Japan 🇯🇵
 
-- 📄 Know about my experiences [https://ike1z.github.io/](https://ike1z.github.io/)
+- 🔭 I’m currently working on **Vue, Django**
+- 📄 Know about my experiences: https://ike1z.github.io/
 
 ### Connect with me:
 <p align="left">
